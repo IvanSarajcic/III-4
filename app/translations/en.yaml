@@ -1,11 +1,11 @@
-home: Home
-download: Download this Directory
-search: Search
+home: ОШ „Светозар Милетић” - III/4
+download: Преузми овај директоријум
+search: Претрага
 file:
-  name: File Name
-  size: Size
-  date: Date
-  info: File Info
+  name: Списак
+  size: Величина
+  date: Датум
+  info: Инфо
 powered_by: Powered by
 scroll_to_top: Scroll to Top
 
